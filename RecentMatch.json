@@ -1,9 +1,9 @@
      [
            {
           "fixture": {
-            "id": "lask",
+            "id": "2",
             "referee": "LASK Linz",
-            "timezone": "LASK Linz",
+            "timezone": "timezone",
              "date": " Sun, Nov 20, 2022 – Sun, Dec 18, 2022",
             "timestamp": "timestamp",
             
@@ -32,8 +32,8 @@
             "id": "lask",
             "name": "LASK Linz",
             "country": "Qatar",
-            "logo": "LASK Linz",
-            "flag": "lask",
+            "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
+            "flag": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
             "season": "LASK Linz",
             "round": "fac"
             
