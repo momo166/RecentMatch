@@ -1,7 +1,7 @@
-     [
+[
            {
           "fixture": {
-            "id": "2",
+            "id": "100",
             "referee": "LASK Linz",
             "timezone": "timezone",
              "date": " Sun, Nov 20, 2022 – Sun, Dec 18, 2022",
@@ -29,19 +29,19 @@
           
           
           "league": {
-            "id": "lask",
-            "name": "LASK Linz",
+            "id": "1",
+            "name": "world cup 2022",
             "country": "Qatar",
             "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
             "flag": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
-            "season": "LASK Linz",
-            "round": "fac"
+            "season": "2022",
+            "round": "16"
             
           },
           
            "teams": {
-              "home": "Qatar ",
-            "away": "Ecuador "
+             "home": "Qatar ",
+             "away": "Ecuador "
             
           },
           
@@ -52,7 +52,7 @@
             "id": "1",
             "name": "world cup 2022",
             "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
-            "winner": null   
+            "winner": null  
             
             }
             
@@ -64,6 +64,83 @@
             "extratime": "null",
             "penalty": "null"
           }
+
+  },
+      
+
+
+
+
+
+
+{
+          
+          "fixture": {
+            "id": "101",
+            "referee": "LASK Linz",
+            "timezone": "timezone",
+             "date": " Sun, Nov 21, 2022 – Sun, Dec 18, 2022",
+            "timestamp": "timestamp",
+            
+             
+            "periods": {
+            "first": "Sun, Nov 21, 2022",
+            "second": " Sun, Dec 18, 2022"
+            
+          },
+             
+             
+              
+            "status": {
+            "long": "LASK Linz",
+            "short": "fac",
+           "elapsed": "fac"
+            
+          },
+            
+             "venue": " 8 (in 5 host cities)"
+            
+          },
+          
+          "league": {
+            "id": "2",
+            "name": "world cup 2022",
+            "country": "Qatar",
+            "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
+            "flag": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
+            "season": "2022",
+            "round": "16"
+            
+          },
+          
+           "teams": {
+             "home": "France ",
+             "away": "Brazil "
+            
+          },
+          
+           "goals": {
+             "home": "Brazil ",
+             
+            "away":  {
+            "id": "2",
+            "name": "France",
+            "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
+            "winner": ""
+            
+            }
+            
+           },
+          
+          "score": {
+            "halftime": "null",
+            "fulltime": "null",
+            "extratime": "null",
+            "penalty": "null"
+          }
+
+
+
         }
   ]
 } 
