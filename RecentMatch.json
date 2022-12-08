@@ -1,4 +1,4 @@
-[
+  [
            {
           "fixture": {
             "id": "100",
@@ -39,33 +39,57 @@
             
           },
           
-           "teams": {
-             "home": "Qatar ",
-             "away": "Ecuador "
-            
-          },
           
-           "goals": {
-             "home": "Qatar ",
+          
+           "teams": {
+             "home": {
+            "id": "1",
+            "name": "world cup 2022",
+            "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
+            "winner": true  
+            
+            },
              
             "away":  {
             "id": "1",
             "name": "world cup 2022",
             "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
-            "winner": null  
+            "winner": false  
             
             }
             
            },
+           
+           
+            "goals": {
+             "home":1,
+             "away": 0
+            
+          },
           
-          "score": {
-            "halftime": "null",
-            "fulltime": "null",
-            "extratime": "null",
-            "penalty": "null"
+          
+            
+            
+             "score": {
+            "halftime": {
+            "home": 0,
+            "away": 0
+              },
+           "fulltime": {
+           "home": 1,
+           "away": 0
+            },
+            "extratime":  {
+            "home": 1,
+            "away": 0
+             },
+            "penalty":  {
+             "home": 1,
+             "away": 0
+            }
           }
 
-      
+           
 
 
         }
