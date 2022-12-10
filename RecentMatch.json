@@ -39,7 +39,7 @@
             
           },
           
-          
+           
           
            "teams": {
              "home": {
@@ -87,6 +87,21 @@
              "home": 1,
              "away": 0
             }
+            
+            
+            
+          },
+          
+          
+           "events": {
+            "time": "11:00",
+            "team": "bra",
+            "player": "jer",
+            "assist": "david",
+            "type": "reder",
+            "detail": "uyuy",
+            "comments": "kjkj"
+            
           }
 
            
