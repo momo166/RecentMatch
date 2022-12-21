@@ -1,111 +1,62 @@
-  [
-           {
-          "fixture": {
-            "id": "100",
-            "referee": "LASK Linz",
-            "timezone": "timezone",
-             "date": " Sun, Nov 20, 2022 – Sun, Dec 18, 2022",
-            "timestamp": "timestamp",
-            
-             
-            "periods": {
-            "first": "Sun, Nov 20, 2022",
-            "second": " Sun, Dec 18, 2022"
-            
-          },
-             
-             
-              
-            "status": {
-            "long": "LASK Linz",
-            "short": "fac",
-           "elapsed": "fac"
-            
-          },
-            
-             "venue": " 8 (in 5 host cities)"
-            
-          },
-          
-          
-          "league": {
-            "id": "1",
-            "name": "world cup 2022",
-            "country": "Qatar",
-            "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
-            "flag": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
-            "season": "2022",
-            "round": "16"
-            
-          },
-          
-           
-          
-           "teams": {
-             "home": {
-            "id": "1",
-            "name": "world cup 2022",
-            "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
-            "winner": true  
-            
-            },
-             
-            "away":  {
-            "id": "1",
-            "name": "world cup 2022",
-            "logo": "https://static.dezeen.com/uploads/2019/09/qatar-2022-world-cup-emblem_dezeen_2364_col_6.jpg",
-            "winner": false  
-            
-            }
-            
-           },
-           
-           
-            "goals": {
-             "home":1,
-             "away": 0
-            
-          },
-          
-          
-            
-            
-             "score": {
-            "halftime": {
-            "home": 0,
-            "away": 0
-              },
-           "fulltime": {
-           "home": 1,
-           "away": 0
-            },
-            "extratime":  {
-            "home": 1,
-            "away": 0
-             },
-            "penalty":  {
-             "home": 1,
-             "away": 0
-            }
-            
-            
-            
-          },
-          
-          
-           "events": {
-            "time": "11:00",
-            "team": "bra",
-            "player": "jer",
-            "assist": "david",
-            "type": "reder",
-            "detail": "uyuy",
-            "comments": "kjkj"
-            
-          }
-
-           
-
-
-        }
-  ]
+[
+    {
+        "id": 1,
+        "title": "World Cup 2022",
+        "image": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+        "discription": "Manchester City can put one hand on the Premier League trophy on Sunday should they 
+      beat West Ham to extend their three-point lead over Liverpool at the top of the table. The Reds are in 
+      FA Cup action as they face Chelsea at Wembley at Saturday, offering City the chance to stretch their
+      advantage to six points and further boost a seven-goal lead on goal difference. City have been in 
+      scintillating form since a 2-2 draw with Liverpool last month left the title race on a knife edge.
+      Pep Guardiola's men have struck 22 goals in five games since to close in on a fourth title in five
+      seasons.Another convincing win at the London Stadium and the title will be realistically won given City's better goal difference."
+    },
+    {
+        "id": 2,
+       "title": "World Cup 2022",
+        "image": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+        "discription": "Manchester City can put one hand on the Premier League trophy on Sunday should they 
+      beat West Ham to extend their three-point lead over Liverpool at the top of the table. The Reds are in 
+      FA Cup action as they face Chelsea at Wembley at Saturday, offering City the chance to stretch their
+      advantage to six points and further boost a seven-goal lead on goal difference. City have been in 
+      scintillating form since a 2-2 draw with Liverpool last month left the title race on a knife edge.
+      Pep Guardiola's men have struck 22 goals in five games since to close in on a fourth title in five
+      seasons.Another convincing win at the London Stadium and the title will be realistically won given City's better goal difference."
+    },
+    {
+        "id": 3,
+        "title": "World Cup 2022",
+        "image": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+        "discription": "Manchester City can put one hand on the Premier League trophy on Sunday should they 
+      beat West Ham to extend their three-point lead over Liverpool at the top of the table. The Reds are in 
+      FA Cup action as they face Chelsea at Wembley at Saturday, offering City the chance to stretch their
+      advantage to six points and further boost a seven-goal lead on goal difference. City have been in 
+      scintillating form since a 2-2 draw with Liverpool last month left the title race on a knife edge.
+      Pep Guardiola's men have struck 22 goals in five games since to close in on a fourth title in five
+      seasons.Another convincing win at the London Stadium and the title will be realistically won given City's better goal difference."
+    },
+    {
+        "id": 4,
+        "title": "World Cup 2022",
+        "image": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+        "discription": "Manchester City can put one hand on the Premier League trophy on Sunday should they 
+      beat West Ham to extend their three-point lead over Liverpool at the top of the table. The Reds are in 
+      FA Cup action as they face Chelsea at Wembley at Saturday, offering City the chance to stretch their
+      advantage to six points and further boost a seven-goal lead on goal difference. City have been in 
+      scintillating form since a 2-2 draw with Liverpool last month left the title race on a knife edge.
+      Pep Guardiola's men have struck 22 goals in five games since to close in on a fourth title in five
+      seasons.Another convincing win at the London Stadium and the title will be realistically won given City's better goal difference."
+    },
+    {
+        "id": 5,
+       "title": "World Cup 2022",
+        "image": "https://ssl.gstatic.com/onebox/media/sports/logos/HJ3_2c4w791nZJj7n-Lj3Q_96x96.png",
+        "discription": "Manchester City can put one hand on the Premier League trophy on Sunday should they 
+      beat West Ham to extend their three-point lead over Liverpool at the top of the table. The Reds are in 
+      FA Cup action as they face Chelsea at Wembley at Saturday, offering City the chance to stretch their
+      advantage to six points and further boost a seven-goal lead on goal difference. City have been in 
+      scintillating form since a 2-2 draw with Liverpool last month left the title race on a knife edge.
+      Pep Guardiola's men have struck 22 goals in five games since to close in on a fourth title in five
+      seasons.Another convincing win at the London Stadium and the title will be realistically won given City's better goal difference."
+    }
+]
